@@ -1,4 +1,4 @@
-# Node open source starter - WIP
+# Node open source starter
 
 An ES6-ready, pre-configured starter for open source Node projects.
 
